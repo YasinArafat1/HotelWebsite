@@ -1,0 +1,114 @@
+* {
+margin:0;
+padding:0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #F5F0F0;
+}
+
+.navbar {
+    display:flex;
+    overflow:hidden;
+ 
+}
+.navbar ul 
+{
+    list-style:none;
+  
+    display:block;
+}
+.navbar ul li {
+        text-decoration: none;
+        float: left;
+        padding:35px 25px;
+}
+.navbar ul li:hover {
+    color:darkred;
+}
+.logo {
+padding:23px 20px;
+color:springgreen;
+}
+
+/*
+    checkin section starts
+*/
+
+.checkin_section {
+   padding: 15px 25px 45px 15px; 
+   
+}
+#h
+{
+    padding-bottom:15px;
+}
+#p {
+    padding-bottom: 18px;
+}
+
+
+.checkin {
+    height: 35px;
+    width: 300px;
+}
+.adult-select {
+    height: 35px;
+    width: 160px;
+}
+.Child-select {
+    height: 35px;
+    width: 160px;
+}
+#search {
+    height: 35px;
+    width: 160px;
+}
+
+.main_images
+{
+    display:flex;
+    width:100%;
+    
+
+}
+.main_images img
+{
+    width:100%;
+    
+
+}
+.image
+{
+    padding:5px;
+
+}
+.li
+{
+    font-size:large;
+    font-weight:700;
+}
+#lil {
+    font-size: large;
+    font-weight: 700;
+    float: right;
+    margin-left: 920px;
+}
+.chose-room
+{
+    background:black;
+    color:navajowhite;
+    text-align:center;
+}
+.footer {
+    background-color: darkseagreen;
+    padding: 15px;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+}
+#logo
+{
+    width:100px;
+    height:150px;
+}
